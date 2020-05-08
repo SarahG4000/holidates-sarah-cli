@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/SarahG4000/holidates-sarah-cli#readme",
   "dependencies": {
+    "ansi-styles": "^4.2.1",
     "axios": "^0.19.2",
     "chalk": "^4.0.0",
     "country-list": "^2.2.0",
