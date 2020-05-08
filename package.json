@@ -1,0 +1,28 @@
+{
+  "name": "@sarah/holidates-sarah-cli",
+  "version": "1.0.0",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "description": "teste 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahG4000/holidates-sarah-cli.git"
+  },
+  "author": "sarahg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahG4000/holidates-sarah-cli/issues"
+  },
+  "homepage": "https://github.com/SarahG4000/holidates-sarah-cli#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.4.0"
+  }
+}
